@@ -63,7 +63,7 @@ if __name__ == "__main__":
     password = "your_password"
     
     # Path to your ChromeDriver executable
-    driver_path = "/Applications/Google Chrome.app"
+    driver_path = "/Users/olivialeese/Downloads/googlechrome.dmg"
 
     # Initialize the automation class
     coinbase_bot = CoinbaseAutoLogin(email, password, driver_path)
